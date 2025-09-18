@@ -26,10 +26,6 @@ O objetivo deste projeto foi desenvolver uma presença digital de alto impacto p
 
 A IQBR é uma consultoria empresarial especializada na Gestão da Inteligência da Informação e no Relacionamento com Stakeholders (clientes B2B, consumidores, franqueados, colaboradores, etc.). Com mais de 400 projetos desenvolvidos desde 1992, a empresa é referência em seu segmento.
 
-## 📸 Preview
-
-![Desktop Preview](URL_DA_SUA_IMAGEM_DESKTOP.png)
-_É altamente recomendado adicionar um GIF mostrando a responsividade do site em ação._
 
 ## ✨ Features
 
